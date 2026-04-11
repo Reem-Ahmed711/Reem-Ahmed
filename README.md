@@ -48,16 +48,9 @@
 
 ---
 
+
+
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=default" width="48%" />
-</p>
-
----
-
-## Awesome Stats
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=flag-brazil&fontFamily=Bpmf%20Huninn&preferLogin=false">
