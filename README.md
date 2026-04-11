@@ -1,60 +1,71 @@
-# Reem Ahmed
+<h1 align="center">Hi 👋, I'm Reem Ahmed</h1>
+<h3 align="center">Computer Science Student @ Cairo University | AI & Data Science Enthusiast</h3>
 
-Computer Science student at Cairo University | AI, Data Science & Full-Stack Development
-
-![Profile Views](https://komarev.com/ghpvc/?username=Reem-Ahmed711&color=blue)
-
----
-
-## About Me
-
-- 📍 Cairo, Egypt
-- 🎓 Cairo University - Faculty of Science (Computer Science Department)
-- 💡 Passionate about AI, Data Science & Full-Stack Development
-- 🔨 Building real-world projects
-- 🎯 Goal: Contribute to open-source and innovate in AI
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reem-Ahmed711&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## Tech Stack
+### 🚀 About Me
 
-**Languages:**  
-Java • JavaScript • Python • C++ • HTML5 • CSS3
-
-**Tools:**  
-Git • GitHub • VS Code • Figma
-
----
-
-## Featured Projects
-
-- [DriveZone](https://github.com/Reem-Ahmed711/DriveZone-Car-Marketplace) - Car marketplace with filtering, sorting & favorites → [Live Demo](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/)
-- [AutoHub Egypt](https://github.com/Reem-Ahmed711/AutoHub-Egypt) - Premium car marketplace with WhatsApp integration → [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/)
-- [Student Jobs Portal](https://github.com/Reem-Ahmed711/student-jobs-portal) - Job platform for Cairo University students
-- [CS304 Air Hockey](https://github.com/Reem-Ahmed711/CS304-AirHockey) - Interactive game built in Java
+- 🔭 I'm currently working on **Full-Stack Web Projects**
+- 🌱 I'm learning **Artificial Intelligence & Data Science**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **areem4780@gmail.com**
+- ⚡ Fun fact: I love solving problems with code
 
 ---
 
-## GitHub Stats
+### 🛠️ Languages and Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-ahmed-a89653305)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:areem4780@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711)
-
----
-
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true&row=1&column=5)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+</p>
 
 ---
 
-*Building solutions, one line of code at a time.*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/reem-ahmed-a89653305">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:areem4780@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Reem-Ahmed711">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true&row=1&column=5" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building solutions, one line of code at a time."</i>
+</p>
