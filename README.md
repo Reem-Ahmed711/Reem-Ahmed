@@ -60,10 +60,10 @@
 
 ---
 
-## GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
