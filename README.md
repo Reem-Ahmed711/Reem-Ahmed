@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&text=Reem%20Ahmed&fontSize=40&fontColor=white&section=header" />
 </p>
 
-<h1 align="center">Reem Ahmed</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=500&color=1E90FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Cairo+University;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer" />
 </p>
