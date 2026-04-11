@@ -1,46 +1,71 @@
-<div align="center">
-  <h1>✨ Reem Ahmed ✨</h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=500&color=2D6A4F&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+Data+Science;Full-Stack+Developer" />
-  
-  <p>
-    <a href="https://www.linkedin.com/in/reem-ahmed-a89653305">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:areem4780@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Reem-Ahmed711&color=2D6A4F&style=flat-square" />
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Reem Ahmed</h1>
+<h3 align="center">Computer Science Student @ Cairo University | AI & Data Science Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reem-Ahmed711&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### 👩‍💻 About Me
+### 🚀 About Me
 
-```text
-📍 Cairo, Egypt
-🎓 Cairo University | Faculty of Science - Computer Science
-💡 Passionate about AI, Data Science & Full-Stack Development
-🔥 Building real-world projects
-🎯 Goal: Contribute to open-source and innovate in AI
-🛠️ Tech Stack
-<div align="center">
-Java • JavaScript • Python • C++ • HTML5 • CSS3
+- 🔭 I'm currently working on **Full-Stack Web Projects**
+- 🌱 I'm learning **Artificial Intelligence & Data Science**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **areem4780@gmail.com**
+- ⚡ Fun fact: I love solving problems with code
 
-Git • GitHub • VS Code • Figma
+---
 
-</div>
-📌 Featured Projects
-<div align="center">
-Project	Description	Live
-DriveZone	Car marketplace with filters, sorting & favorites	🔗
-AutoHub Egypt	Premium car marketplace with WhatsApp integration	🔗
-Student Jobs Portal	Job platform for Cairo University students	🔗
-CS304 Air Hockey	Interactive game built in Java	🔗
-</div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=default&hide_border=true&bg_color=00000000" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=default&hide_border=true&bg_color=00000000" width="42%" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reem-Ahmed711&theme=default&hide_border=true&background=00000000" width="55%" /> </div>
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/reem-ahmed-a89653305"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:areem4780@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=100&section=footer" /> </div> ```
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/reem-ahmed-a89653305">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:areem4780@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Reem-Ahmed711">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true&row=1&column=5" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building solutions, one line of code at a time."</i>
+</p>
