@@ -21,10 +21,10 @@
 
 ## About
 
-- 🎓 **Education**: Cairo University - Faculty of Science (Computer Science)
-- 💡 **Interests**: Artificial Intelligence, Data Science, Full-Stack Development
-- 🔨 **Currently**: Building real-world projects and solving problems
-- 🎯 **Goal**: Contribute to open-source and innovate in AI
+- 🎓 Education: Cairo University - Faculty of Science (Computer Science)
+- 💡 Interests: Artificial Intelligence, Data Science, Full-Stack Development
+- 🔨 Currently: Building real-world projects and solving problems
+- 🎯 Goal: Contribute to open-source and innovate in AI
 
 ---
 
@@ -40,11 +40,11 @@
 
 | Project | Description | Link |
 |:--------|:------------|:-----|
-| **TechX Egypt** | Full e-commerce platform with admin dashboard | [Live Demo](https://Reem-Ahmed711.github.io/TechX-Egypt/) |
-| **AutoHub Egypt** | Premium car marketplace with WhatsApp integration | [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/) |
-| **DriveZone** | Car marketplace with filtering, sorting and favorites | [Live Demo](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/) |
-| **Student Jobs Portal** | Job platform for Cairo University students | [Repository](https://github.com/Reem-Ahmed711/student-jobs-portal) |
-| **CS304 Air Hockey** | Interactive game built in Java | [Repository](https://github.com/Reem-Ahmed711/CS304-AirHockey) |
+| TechX Egypt | Full e-commerce platform with admin dashboard | [Live Demo](https://Reem-Ahmed711.github.io/TechX-Egypt/) |
+| AutoHub Egypt | Premium car marketplace with WhatsApp integration | [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/) |
+| DriveZone | Car marketplace with filtering, sorting and favorites | [Live Demo](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/) |
+| Student Jobs Portal | Job platform for Cairo University students | [Repository](https://github.com/Reem-Ahmed711/student-jobs-portal) |
+| CS304 Air Hockey | Interactive game built in Java | [Repository](https://github.com/Reem-Ahmed711/CS304-AirHockey) |
 
 ---
 
@@ -64,7 +64,7 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true" />
 </p>
 
 ---
