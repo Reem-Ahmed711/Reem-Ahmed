@@ -42,6 +42,7 @@
 |:--------|:------------|:-----|
 | DriveZone | Car marketplace with filtering, sorting and favorites | [Live Demo](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/) |
 | AutoHub Egypt | Premium car marketplace with WhatsApp integration | [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/) |
+| TechX Egypt | Full e-commerce platform with admin dashboard | [Live Demo](https://Reem-Ahmed711.github.io/TechX-Egypt/) |
 | Student Jobs Portal | Job platform for Cairo University students | [Repository](https://github.com/Reem-Ahmed711/student-jobs-portal) |
 | CS304 Air Hockey | Interactive game built in Java | [Repository](https://github.com/Reem-Ahmed711/CS304-AirHockey) |
 
@@ -52,6 +53,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=default" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+## Awesome Stats
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=flag-brazil&fontFamily=Bpmf%20Huninn&preferLogin=false">
+    <img alt="Reem-Ahmed711's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Reem-Ahmed711?cardType=octocat&theme=flag-brazil&fontFamily=Bpmf%20Huninn&preferLogin=false" />
+  </a>
 </p>
 
 ---
