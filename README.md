@@ -21,10 +21,10 @@
 
 ## About
 
-- 🎓 Education: Cairo University - Faculty of Science (Computer Science)
-- 💡 Interests: Artificial Intelligence, Data Science, Full-Stack Development
-- 🔨 Currently: Building real-world projects and solving problems
-- 🎯 Goal: Contribute to open-source and innovate in AI
+- Education: Cairo University - Faculty of Science (Computer Science)
+- Interests: Artificial Intelligence, Data Science, Full-Stack Development
+- Currently: Building real-world projects and solving problems
+- Goal: Contribute to open-source and innovate in AI
 
 ---
 
@@ -40,9 +40,9 @@
 
 | Project | Description | Link |
 |:--------|:------------|:-----|
-| TechX Egypt | Full e-commerce platform with admin dashboard | [Live Demo](https://Reem-Ahmed711.github.io/TechX-Egypt/) |
-| AutoHub Egypt | Premium car marketplace with WhatsApp integration | [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/) |
 | DriveZone | Car marketplace with filtering, sorting and favorites | [Live Demo](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/) |
+| AutoHub Egypt | Premium car marketplace with WhatsApp integration | [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/) |
+| TechX Egypt | Full e-commerce platform with admin dashboard | [Live Demo](https://Reem-Ahmed711.github.io/TechX-Egypt/) |
 | Student Jobs Portal | Job platform for Cairo University students | [Repository](https://github.com/Reem-Ahmed711/student-jobs-portal) |
 | CS304 Air Hockey | Interactive game built in Java | [Repository](https://github.com/Reem-Ahmed711/CS304-AirHockey) |
 
@@ -55,8 +55,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=default" width="48%" />
 </p>
 
+---
+
+## Awesome Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reem-Ahmed711&theme=default" width="60%" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=flag-brazil&fontFamily=Bpmf%20Huninn&preferLogin=false">
+    <img alt="Reem-Ahmed711's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Reem-Ahmed711?cardType=octocat&theme=flag-brazil&fontFamily=Bpmf%20Huninn&preferLogin=false" />
+  </a>
 </p>
 
 ---
@@ -64,16 +70,16 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=flat&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711" />
 </p>
 
 ---
 
-## Connect With Me
+## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/reem-ahmed-a89653305)
-- 📧 [Email](mailto:areem4780@gmail.com)
-- 🐙 [GitHub](https://github.com/Reem-Ahmed711)
+- LinkedIn: [Reem Ahmed](https://www.linkedin.com/in/reem-ahmed-a89653305)
+- Email: areem4780@gmail.com
+- GitHub: [Reem-Ahmed711](https://github.com/Reem-Ahmed711)
 
 ---
 
@@ -82,5 +88,5 @@
 </p>
 
 <p align="center">
-  <i>Building solutions, one line of code at a time.</i>
+  Building solutions, one line of code at a time.
 </p>
