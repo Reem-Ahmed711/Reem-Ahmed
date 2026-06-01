@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=Reem%20Ahmed&fontSize=52&fontColor=fff&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20Cairo%20University%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+Cairo+University;AI+%26+Full-Stack+Developer;Building+real-world+applications;4%2B+projects+completed;Open+to+internship+opportunities)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+full-stack+applications+from+scratch;Passionate+about+AI+%26+Data+Science;4%2B+real-world+projects+completed;Open+to+internship+opportunities)](https://git.io/typing-svg)
-
+<!-- Social badges -->
 <p>
   <a href="https://github.com/Reem-Ahmed711">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/reem-ahmed-a89653305">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:areem4780@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0008-3391-1384">
-    <img src="https://img.shields.io/badge/ORCID-%23A6CE39?style-for-the-badge&logo=orcid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </p>
 
