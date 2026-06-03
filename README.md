@@ -1,143 +1,167 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Reem%20Ahmed&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=e0d7ff&animation=fadeIn" />
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER WAVE                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Reem%20Ahmed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🚀+Building+Real-World+Applications;🤖+Exploring+the+World+of+AI;🎨+Designing+with+Purpose+%26+Passion;💡+Problem+Solver+%26+Lifelong+Learner;🌟+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+with+Code;💡+AI+Explorer+%26+Problem+Solver;🎨+Design+Meets+Development;🌍+Cairo+University+CS+Student;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </a>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    PROFILE VIEWS & BADGES                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<!-- BADGES ROW -->
-<p>
-  <img src="https://img.shields.io/badge/📍_Cairo,_Egypt-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎓_Cairo_University-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expected_2027-4F46E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/She%2FHer-F472B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔥_Open_to_Internships-10B981?style=for-the-badge&logoColor=white" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Reem-Ahmed711&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Reem-Ahmed711?label=Followers&style=for-the-badge&color=purple)](https://github.com/Reem-Ahmed711)
+[![GitHub stars](https://img.shields.io/github/stars/Reem-Ahmed711?label=Stars&style=for-the-badge&color=pink)](https://github.com/Reem-Ahmed711)
 
-<!-- SOCIAL LINKS -->
-<p>
-  <a href="https://github.com/Reem-Ahmed711">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/reem-ahmed-a89653305">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:areem4780@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0008-3391-1384">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Reem-Ahmed711&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      SOCIAL LINKS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-Reem--Ahmed711-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reem%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-ahmed711)
+[![Gmail](https://img.shields.io/badge/Gmail-reemahmed711-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemahmed711@gmail.com)
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=4&section=header" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
 ```yaml
-name: Reem Ahmed
-location: Maadi, Cairo, Egypt 🇪🇬
-university: Cairo University — Faculty of Science
-department: Computer Science (Expected 2027)
-pronouns: she/her
-
-roles:
-  - 💻 Full-Stack Web Developer
-  - 🤖 AI Enthusiast & Learner
-  - 🎨 Graphic Design Background (Adobe, Canva)
-  - 🏆 Presidential Youth Program Alumna
-
-currently:
-  - 🔭 Building full-stack web applications
-  - 🌱 Deepening knowledge in AI & Machine Learning
-  - 👯 Open to collaborate on open-source projects
-  - 💼 Actively seeking internship opportunities
-
-fun_fact: >
-  I don't just write code — I solve problems.
-  My design background gives me an edge in
-  creating interfaces that are both functional
-  AND beautiful! ✨
+Name        : Reem Ahmed
+Pronouns    : she/her
+Location    : Maadi, Cairo, Egypt 🇪🇬
+University  : Cairo University
+Faculty     : Science — Computer Science
+Graduation  : Expected 2027 🎓
+Status      : Open to Internships ✅
+Interests   : AI · Full-Stack Dev · Design
 ```
 
-<br clear="right"/>
+<br/>
+
+🔭 **Currently:** Building full-stack web applications & exploring AI/ML<br/>
+🌱 **Learning:** Advanced JavaScript, Python for AI, and System Design<br/>
+💡 **Superpower:** Graphic design background → UI/UX edge<br/>
+🏆 **Achievement:** Selected for Egypt's **"Be Ready"** Presidential Youth Program<br/>
+⚡ **Fun fact:** I don't just write code — I *craft* experiences!
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Girl GIF"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f093fb,100:f5576c&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   WHAT I'M LOOKING FOR                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🔥 What I'm Looking For
+## 🎯 What I'm Looking For
 
 <div align="center">
 
-> 🚨 **ACTIVELY SEEKING INTERNSHIP OPPORTUNITIES** 🚨
+| 💼 Opportunity | ✅ Available | 📅 Timeline | 🌐 Mode |
+|:---:|:---:|:---:|:---:|
+| Software Engineering Internship | ✅ Yes | Summer 2025 / Anytime | Remote / On-site |
+| AI / Machine Learning Internship | ✅ Yes | Summer 2025 / Anytime | Remote / On-site |
+| Data Science Internship | ✅ Yes | Summer 2025 / Anytime | Remote / Hybrid |
+| Freelance Web Development | ✅ Yes | Immediately | Remote |
+| Open Source Contributions | ✅ Yes | Ongoing | Remote |
 
-| 💼 Role Type | 🏢 Domain | 🗓️ Availability |
-|:-----------:|:---------:|:--------------:|
-| Full-Stack Developer | Software Engineering | Immediate |
-| Frontend Developer | Artificial Intelligence | Flexible |
-| Backend Developer | Data Science | Open to discuss |
-| AI / ML Intern | Web Development | Ready NOW |
+> 💌 *Open to exciting opportunities — let's build something amazing together!*
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<div align="center">
 
-### 🧰 Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,cpp,html,css&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📦 Other Skills
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Basics-2D2D2D?style=for-the-badge&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/AI_Concepts-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LocalStorage_API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### 🔧 Tools & Technologies
+
+<div align="center">
+
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+### 🧠 Other Skills
+
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML%20Concepts-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Basics-2d6a4f?style=for-the-badge&logo=hackthebox&logoColor=white)
+![LocalStorage API](https://img.shields.io/badge/LocalStorage%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MS Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -145,38 +169,14 @@ fun_fact: >
 
 ### 🛒 TechX Egypt — Full E-Commerce Platform
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-TechX%20Egypt-A855F7?style=for-the-badge)](https://Reem-Ahmed711.github.io/TechX-Egypt/)
+[![Repo](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Reem-Ahmed711/TechX-Egypt)
+
 </div>
 
-<table>
-<tr>
-<td width="65%">
+> 🧰 **Stack:** `HTML5` `CSS3` `JavaScript ES6+` `LocalStorage API`
 
-**🔗 [Live Demo](https://Reem-Ahmed711.github.io/TechX-Egypt/) &nbsp;|&nbsp; [📂 Repository](https://github.com/Reem-Ahmed711/TechX-Egypt)**
-
-A **complete, production-ready e-commerce platform** featuring a full admin dashboard and seamless shopping experience — built entirely with vanilla web technologies.
-
-**✨ Key Features:**
-- 🔍 Product catalog with filtering & sorting by category and price
-- 🛠️ Admin dashboard with full **CRUD** operations (add, edit, delete products)
-- 🛒 Dynamic shopping cart with quantity controls & real-time price calculation
-- 🔐 User authentication (login/signup) with form validation
-- 📱 Fully responsive design across mobile, tablet & desktop
-
-</td>
-<td width="35%" align="center">
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LocalStorage](https://img.shields.io/badge/LocalStorage_API-orange?style=flat-square)
-
-`E-Commerce` `Admin Dashboard` `Responsive`
-
-</td>
-</tr>
-</table>
+Complete e-commerce platform featuring **Admin Dashboard**, full **Product CRUD Management**, Shopping Cart with quantity controls, **User Authentication** (login/signup), and localStorage persistence. Includes product catalog with advanced filtering and sorting by category & price — fully responsive across all devices.
 
 ---
 
@@ -184,37 +184,14 @@ A **complete, production-ready e-commerce platform** featuring a full admin dash
 
 ### 🚗 AutoHub Egypt — Premium Car Marketplace
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-AutoHub%20Egypt-EC4899?style=for-the-badge)](https://Reem-Ahmed711.github.io/AutoHub-Egypt/)
+[![Repo](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Reem-Ahmed711/AutoHub-Egypt)
+
 </div>
 
-<table>
-<tr>
-<td width="35%" align="center">
+> 🧰 **Stack:** `HTML5` `CSS3` `JavaScript` `Font Awesome`
 
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
-
-`Marketplace` `Filtering` `WhatsApp Integration`
-
-</td>
-<td width="65%">
-
-**🔗 [Live Demo](https://Reem-Ahmed711.github.io/AutoHub-Egypt/) &nbsp;|&nbsp; [📂 Repository](https://github.com/Reem-Ahmed711/AutoHub-Egypt)**
-
-A **premium car marketplace** with advanced search capabilities and real-time seller communication — designed for a seamless buying experience.
-
-**✨ Key Features:**
-- 🔎 Advanced filtering by brand, price, year, fuel type & location
-- ❤️ Favorites system with **localStorage** persistence
-- 🖼️ Modal image gallery with full car specifications
-- 📞 Direct **WhatsApp & phone call** buttons for instant seller contact
-
-</td>
-</tr>
-</table>
+Premium car marketplace with advanced filtering by **brand, price, year, fuel type & location**. Features a favorites system with localStorage, modal image gallery with full specs, and direct **WhatsApp + phone call** buttons for instant seller contact.
 
 ---
 
@@ -222,70 +199,28 @@ A **premium car marketplace** with advanced search capabilities and real-time se
 
 ### 🏎️ DriveZone — Car Marketplace Website
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-DriveZone-3B82F6?style=for-the-badge)](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/)
+[![Repo](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Reem-Ahmed711/DriveZone-Car-Marketplace)
+
 </div>
 
-<table>
-<tr>
-<td width="65%">
+> 🧰 **Stack:** `HTML5` `CSS3` `JavaScript`
 
-**🔗 [Live Demo](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/) &nbsp;|&nbsp; [📂 Repository](https://github.com/Reem-Ahmed711/DriveZone-Car-Marketplace)**
-
-A **responsive car marketplace** with smooth filtering, interactive modals, and a full contact system — delivering a polished user experience end to end.
-
-**✨ Key Features:**
-- 🃏 Dynamic product cards with images, specifications & pricing
-- 📂 Category-based filtering and price sorting
-- 🔲 Modal popup with detailed vehicle information
-- 📝 Contact form with client-side validation
-
-</td>
-<td width="35%" align="center">
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-`Responsive` `Marketplace` `Modal UI`
-
-</td>
-</tr>
-</table>
+Responsive car marketplace with **dynamic product cards**, category-based filtering, price sorting, modal popups with detailed vehicle information, and contact form with client-side validation.
 
 ---
 
 <div align="center">
 
-### 🎓 Student Jobs Portal — Job Platform for Cairo University
+### 🎓 Student Jobs Portal — Cairo University Job Platform
+
+[![Repo](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Reem-Ahmed711/student-jobs-portal)
 
 </div>
 
-<table>
-<tr>
-<td width="35%" align="center">
+> 🧰 **Stack:** `JavaScript`
 
-**Tech Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-`Job Platform` `Multi-Role` `Authentication`
-
-</td>
-<td width="65%">
-
-**[📂 Repository](https://github.com/Reem-Ahmed711/student-jobs-portal)**
-
-A **job platform** connecting Cairo University students with part-time opportunities — featuring separate portals for students, employers, and admins.
-
-**✨ Key Features:**
-- 👩‍🎓 Separate interfaces for **students, employers & administrators**
-- 📋 Job listing and application tracking functionality
-- 🔐 Full user authentication system
-
-</td>
-</tr>
-</table>
+Job platform connecting **Cairo University students** with part-time opportunities. Separate interfaces for students, employers & administrators. Includes job listings, application tracking, and full user authentication system.
 
 ---
 
@@ -293,189 +228,189 @@ A **job platform** connecting Cairo University students with part-time opportuni
 
 ### 🏒 CS304 Air Hockey — Interactive 2D Game
 
+[![Repo](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Reem-Ahmed711/CS304-AirHockey)
+
 </div>
 
-<table>
-<tr>
-<td width="65%">
+> 🧰 **Stack:** `Java` `Java Swing` `AWT`
 
-**[📂 Repository](https://github.com/Reem-Ahmed711/CS304-AirHockey)**
+Interactive Air Hockey game with **collision detection**, realistic ball physics, **AI opponent** with basic decision-making logic, and a complete scoring system with game state management.
 
-An **interactive Air Hockey game** built for the CS304 course, featuring realistic physics and an intelligent AI opponent — a dive into game development with Java.
-
-**✨ Key Features:**
-- ⚡ Collision detection & realistic ball physics
-- 🤖 AI opponent with basic decision-making logic
-- 🏆 Scoring system & game state management
-
-</td>
-<td width="35%" align="center">
-
-**Tech Stack**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing%2FAWT-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-`Game Dev` `AI Logic` `Physics`
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f093fb,100:f5576c&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Reem-Ahmed711&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" />
+<img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="180px"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reem-Ahmed711&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=EC4899&fire=EC4899&currStreakLabel=A855F7&sideNums=ffffff&sideLabels=A855F7&dates=888888" width="600px"/>
 
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=4" width="100%"/>
-
-## 🏅 Certifications
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-| 🏆 Certificate | 🏢 Issuer | 📅 Year |
-|:--------------|:---------|:------:|
-| ☕ Java Development | Udemy | 2024 |
-| 🤖 Artificial Intelligence Fundamentals | ALX | 2024 |
-| 📦 Delivering Quality Work with Agility | IBM — Coursera | 2024 |
-| 💻 IT for Business Success | HP | 2023 |
-| 📈 Fundamentals of Digital Marketing | Google Maharat | 2023 |
-| ⏱️ Time and Stress Management | Edraak | 2023 |
-| 🚀 Entrepreneurship Foundations | LinkedIn Learning | 2023 |
-| 🪟 Microsoft Office Specialist (Word & PowerPoint) | Microsoft | 2021 |
-| 💰 Youth Financial Literacy | EBI | 2022 |
+<img src="https://github-profile-trophy.vercel.app/?username=Reem-Ahmed711&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CERTIFICATIONS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🌟 Extracurricular & Achievements
+## 🎓 Certifications & Courses
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Year |
+|:---|:---:|:---:|
+| ☕ Java Development | Udemy | 2024 |
+| 🤖 Artificial Intelligence Fundamentals | ALX | 2024 |
+| ⚡ Delivering Quality Work with Agility | IBM / Coursera | 2024 |
+| 💻 IT for Business Success | HP | 2023 |
+| 📱 Fundamentals of Digital Marketing | Google Maharat | 2023 |
+| ⏰ Time and Stress Management | Edraak | 2023 |
+| 🚀 Entrepreneurship Foundations | LinkedIn Learning | 2023 |
+| 💰 Youth Financial Literacy | EBI | 2022 |
+| 📄 Microsoft Office Specialist (Word & PowerPoint) | Microsoft | 2021 |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                EXTRACURRICULAR & ACHIEVEMENTS                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌟 Achievements & Extracurriculars
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🏅  "Be Ready" Presidential Youth Initiative                    ║
-║      Selected for Egypt's national youth program focused         ║
-║      on digital skills, AI basics & future job market prep.      ║
+║  🏆  "Be Ready" Presidential Youth Initiative                   ║
+║      Selected for Egypt's national youth program                ║
+║      Focus: Digital Skills · AI Basics · Future Job Market      ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  💻  Coding Challenges & Hackathons                              ║
-║      Participated in online problem-solving competitions          ║
-║      to sharpen logical thinking & programming efficiency.        ║
+║  💻  Coding Challenges & Hackathons                             ║
+║      Online problem-solving competitions                        ║
+║      Sharpening logical thinking & programming efficiency       ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  📚  Workshops & Online Learning                                  ║
-║      Completed courses in AI, cybersecurity & digital marketing.  ║
+║  📚  Workshops & Continuous Online Learning                     ║
+║      AI · Cybersecurity · Digital Marketing                     ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  🤝  Student Volunteering                                         ║
-║      Engaged in teamwork and event organization — enhancing       ║
-║      leadership and communication skills.                         ║
+║  🤝  Student Volunteering                                       ║
+║      Teamwork · Event Organization                              ║
+║      Leadership & Communication Development                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f093fb,100:f5576c&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   LANGUAGES & SOFT SKILLS                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🧠 Soft Skills
+## 🌐 Languages
 
 <div align="center">
 
-<table>
-<tr>
-  <td align="center">🗂️<br/><b>Project Management</b></td>
-  <td align="center">⏰<br/><b>Time Management</b></td>
-  <td align="center">🤝<br/><b>Teamwork & Collaboration</b></td>
-</tr>
-<tr>
-  <td align="center">🧩<br/><b>Problem-Solving</b></td>
-  <td align="center">🔍<br/><b>User Research</b></td>
-  <td align="center">📈<br/><b>Adaptability & Continuous Learning</b></td>
-</tr>
-</table>
+| 🌍 Language | 🗣️ Level | 📊 Proficiency |
+|:---:|:---:|:---:|
+| 🇸🇦 Arabic | Native / Fluent | ████████████ 100% |
+| 🇬🇧 English | Professional Working | █████████░░░ 80% |
+| 🇩🇪 German | Basic | ████░░░░░░░░ 35% |
+
+</div>
+
+## 🧩 Soft Skills
+
+<div align="center">
+
+![Project Management](https://img.shields.io/badge/📋%20Project%20Management-A855F7?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/⏰%20Time%20Management-EC4899?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/🤝%20Teamwork%20%26%20Collaboration-3B82F6?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/💡%20Problem--Solving-10B981?style=for-the-badge)
+![User Research](https://img.shields.io/badge/🔍%20User%20Research-F59E0B?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/🔄%20Adaptability%20%26%20Learning-EF4444?style=for-the-badge)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION GRAPH                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reem-Ahmed711&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=EC4899&point=ffffff&area=true&area_color=A855F7" width="100%"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=4" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🌍 Languages
-
-<div align="center">
-
-| 🌐 Language | 📊 Proficiency | 🎯 Level |
-|:----------:|:-------------:|:--------:|
-| 🇪🇬 Arabic | ██████████ 100% | Native / Fluent |
-| 🇬🇧 English | ████████░░ 80% | Professional Working Proficiency |
-| 🇩🇪 German | ████░░░░░░ 35% | Basic |
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=4" width="100%"/>
-
-## 📬 Get in Touch
+## 📬 Let's Connect!
 
 <div align="center">
 
-### ✨ Let's Build Something Amazing Together! ✨
+<a href="https://github.com/Reem-Ahmed711">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/reem-ahmed711">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:reemahmed711@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-  <a href="mailto:areem4780@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/reem-ahmed-a89653305">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Reem-Ahmed711">
-    <img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<br/>
-
-> *"The best way to predict the future is to create it."*
+> 💼 *"I don't just write code — I solve problems, craft experiences, and build the future."*
 >
-> — and that's exactly what I'm here to do. 💜
-
-<br/>
-
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<!-- To activate: set up the GitHub Action at https://github.com/Platane/snk -->
-<!-- Then uncomment the line below: -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake-dark.svg) -->
+> — Reem Ahmed
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=68" />
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER WAVE                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <sub>💜 Made with passion by Reem Ahmed · Cairo, Egypt 🇪🇬</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
+
+*Made with ❤️ from Cairo, Egypt 🇪🇬*
+
 </div>
